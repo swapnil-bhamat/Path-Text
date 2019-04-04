@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="700" height="700" x="700" y="700" xml:space="preserve"><desc>Created with Fabric.js 1.4.12</desc><defs></defs><defs>
+<path id="1024_circleText_1_customPath" d="M -100 99.99999999999997 C -99.99999999999994 -10.456949960000003 -10.45694995999996 -99.99999999999997 100.00000000000001 -100 C 210.45694996 -99.99999999999994 300 -10.45694995999996 300 100 C 300 210.45694995999997 210.45694996 299.99999999999994 100.00000000000001 300 C -8.54574241779872 300 -98.07515461756614 212.01969166293208 -99.96953903127826 103.49048128745669 Z" style="stroke: #000; stroke-width: 1; stroke-dasharray: ; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 1; fill: none; fill-rule: nonzero; opacity: 0.01;" transform="translate(396 185)translate(-100, -100)" stroke-linecap="round" />
+</defs>
+<g>
+<text font-family="Type Keys" font-size="30" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: ; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 1; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform="translate()">
+<textPath xlink:href="#1024_circleText_1_customPath" startOffset="0%">
+<tspan dx="0" dy="0"  fill="rgb(0,0,0)">ABCDEFGHIJKLMNOPQRSTUVasdasdasdasdasdasdasdasdasdsdddddsaa</tspan></textPath>
+</text>
+</g>
+<path d="M -100 99.99999999999997 C -99.99999999999994 -10.456949960000003 -10.45694995999996 -99.99999999999997 100.00000000000001 -100 C 210.45694996 -99.99999999999994 300 -10.45694995999996 300 100 C 300 210.45694995999997 210.45694996 299.99999999999994 100.00000000000001 300 C -8.54574241779872 300 -98.07515461756614 212.01969166293208 -99.96953903127826 103.49048128745669 Z" style="stroke: #000; stroke-width: 1; stroke-dasharray: ; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 1; fill: none; fill-rule: nonzero; opacity: 0.01;" transform="translate(396 185)translate(-100, -100)" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="292" height="292" x="113.26690391459074" y="88.32740213523131" xml:space="preserve"><desc>Created with Fabric.js 1.4.12</desc><defs></defs><g transform="translate(146 110.96)">
+<text font-family="Type Keys -ART38" font-size="285.7651245551601" font-style="normal" font-weight="normal" artifi-id="text_1" artifi-text-align="center" style="stroke: none; stroke-width: 0.5195729537366548; stroke-dasharray: ; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 1; fill: #000000; fill-rule: nonzero; opacity: 1;" transform="translate(-116.11 285.29)"><tspan x="0.52" y="-143.4" fill="#000000">C</tspan></text>
+</g>
+<defs>
+<path id="circle-text_1_customPath" d="M -38.96797153024911 38.9679715302491 C -38.96797153024911 -4.074861283345193 -4.074861283345179 -38.96797153024911 38.967971530249116 -38.96797153024911 C 50.50126382259954 -38.96797153024911 67.94781894605151 -34.29318117421507 77.93594306049825 -28.526535028039866" style="stroke: #000; stroke-width: 14.937722419928825; stroke-dasharray: ; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 1; fill: none; fill-rule: nonzero; opacity: 0.01;" transform="translate(150.08 72.97) rotate(30.15) scale(1.6 1.6)translate(-19.483985765124565, 7.105427357601002e-15)" stroke-linecap="round" />
+</defs>
+<g>
+<text font-family="SchneidlerBT ART38" font-size="23.90035587188612" font-style="normal" font-weight="normal" text-decoration="none" style="stroke: none; stroke-width: 0.5195729537366548; stroke-dasharray: ; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 1; fill: #000000; fill-rule: nonzero; opacity: 1;" transform="translate()">
+<textPath xlink:href="#circle-text_1_customPath" startOffset="0%">
+<tspan dx="2.62" dy="8.96"  fill="#000000">•The Chaidez Family•</tspan></textPath>
+</text>
+</g>
+<defs>
+<path id="circle-text_2_customPath" d="M 89.064230078773 98.67036763098085 C 122.03695297172612 71.00296801259323 126.33776724936848 21.844435874678346 98.67036763098085 -11.128287018274769 C 71.00296801259321 -44.1010099112279 21.844435874678343 -48.40182418887026 -11.128287018274776 -20.73442457048263 C -26.503720213481465 -7.832904247193802 -38.96797153024911 18.896768960584815 -38.96797153024911 38.9679715302491" style="stroke: #000; stroke-width: 14.937722419928825; stroke-dasharray: ; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 1; fill: none; fill-rule: nonzero; opacity: 0.01;" transform="translate(151.68 158.66) rotate(155.49) scale(1.6 1.6)translate(-39.436999977741074, -29.38216960287391)" stroke-linecap="round" />
+</defs>
+<g>
+<text font-family="SchneidlerBT ART38" font-size="23.90035587188612" font-style="normal" font-weight="normal" text-decoration="none" style="stroke: none; stroke-width: 0.5195729537366548; stroke-dasharray: ; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 1; fill: #000000; fill-rule: nonzero; opacity: 1;" transform="translate()">
+<textPath xlink:href="#circle-text_2_customPath" startOffset="0%">
+<tspan dx="4.44" dy="8.96"  fill="#000000">334 West 228th Street • Carson, CA 90745</tspan></textPath>
+</text>
+</g>
+</svg>

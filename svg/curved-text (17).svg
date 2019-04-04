@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="700" height="700" x="700" y="700" xml:space="preserve"><desc>Created with Fabric.js 1.4.12</desc><defs></defs><defs>
+<path id="1024_circleText_1_customPath" d="M -25 24.999999999999993 C -24.999999999999986 -2.6142374900000007 -2.61423748999999 -24.999999999999993 25.000000000000004 -25 C 52.61423749 -24.999999999999986 75 -2.61423748999999 75 25 C 75 52.614237489999994 52.61423749 74.99999999999999 25.000000000000004 75 C -2.13643560444968 75 -24.518788654391535 53.00492291573302 -24.992384757819565 25.872620321864172 Z" style="stroke: #000; stroke-width: 1; stroke-dasharray: ; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 1; fill: none; fill-rule: nonzero; opacity: 0.01;" transform="translate(300 200)translate(-25, -25)" stroke-linecap="round" />
+</defs>
+<g>
+<text font-family="SchneidlerBT-Bold -ART38_R" font-size="30" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: ; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 1; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform="translate()">
+<textPath xlink:href="#1024_circleText_1_customPath" startOffset="0%">
+<tspan dx="0" dy="0"  fill="rgb(0,0,0)">ABCDEFGHIJKLMNOPQRSTUV</tspan></textPath>
+</text>
+</g>
+<path d="M -25 24.999999999999993 C -24.999999999999986 -2.6142374900000007 -2.61423748999999 -24.999999999999993 25.000000000000004 -25 C 52.61423749 -24.999999999999986 75 -2.61423748999999 75 25 C 75 52.614237489999994 52.61423749 74.99999999999999 25.000000000000004 75 C -2.13643560444968 75 -24.518788654391535 53.00492291573302 -24.992384757819565 25.872620321864172 Z" style="stroke: #000; stroke-width: 1; stroke-dasharray: ; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 1; fill: none; fill-rule: nonzero; opacity: 0.01;" transform="translate(300 200)translate(-25, -25)" stroke-linecap="round" />
+</svg>
